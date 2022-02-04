@@ -1,7 +1,7 @@
 # ic-04
 ic-04 - Intro to HTML and CSS
 
-Link to GitHub Pages: `[https://ds4200-s22.github.io/ic-04-rachelbringas/]`
+Link to GitHub Pages: [Rachel Bringas Github Pages](https://ds4200-s22.github.io/ic-04-rachelbringas/)
 
 ## Purpose
 
