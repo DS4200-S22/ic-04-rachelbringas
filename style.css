@@ -1,4 +1,7 @@
-style.css
+body {
+    font-family: Arial;
+}
+
 
 h1 {
     text-align: center;
@@ -8,14 +11,11 @@ h2 {
     text-align: center;
 }
 
-body {
-    font-family: Arial;
-}
 
-container {
+.container {
     border-style: solid;
 }
 
-italic {
+.italic {
     font-style: italic;
 }
